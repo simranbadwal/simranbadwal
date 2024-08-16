@@ -15,6 +15,10 @@
 ![GitHub](https://github-readme-stats.vercel.app/api?username=simranbadwal&show_icons=true&theme=radical)
 <br>
 
+![Repositories](https://starchart.cc/{simranbadwal}/{repo}.svg)
+<br>
+
+
 
 ### Top Languages
 
@@ -41,6 +45,10 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 </p>
 <br>
 
@@ -80,7 +88,12 @@
 
 <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank"> 
-   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>   
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  <a href="https://www.eclipse.org/" target="_blank"> 
+   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
+  <a href="https://www.gnu.org/software/emacs/" target="_blank"> 
+   <img alt="Emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></a>
+     
 </p>
 <br>
 
