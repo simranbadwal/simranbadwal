@@ -39,6 +39,8 @@
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
   <a href="https://www.java.com/en/" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 </p>
 <br>
 
