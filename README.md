@@ -10,22 +10,10 @@
 ---
 <br>
 
-## Stats
-
-![GitHub](https://github-readme-stats.vercel.app/api?username=simranbadwal&show_icons=true&theme=radical)
-<br>
-
-![Repositories](https://starchart.cc/{simranbadwal}/{repo}.svg)
-<br>
-
-
-
 ### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simranbadwal&layout=compact&theme=radical)
 <br>
-
-
 
 <!-- Skills ############################ 
 -->
@@ -58,9 +46,9 @@
 
 
  <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/></a>
+    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
  <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></a>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <br>
 
@@ -72,9 +60,9 @@
 <p align="left"> 
 
  <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/></a>
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
   <a href="https://www.linux.org/" target="_blank"> 
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/></a>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
   <a href="https://www.debian.org/" target="_blank"> 
     <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></a>
   <a href="https://www.apple.com/" target="_blank"> 
