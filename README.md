@@ -32,9 +32,9 @@
 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white"></a> 
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a> 
   <a href="https://www.python.org/" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
   <a href="https://www.java.com/en/" target="_blank">
