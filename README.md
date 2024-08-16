@@ -36,7 +36,7 @@
   <a href="https://www.python.org/" target="_blank"> 
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
   <a href="https://www.java.com/en/" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">
