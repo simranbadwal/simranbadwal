@@ -65,6 +65,10 @@
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/></a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/></a>
+  <a href="https://www.debian.org/" target="_blank"> 
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></a>
+  <a href="https://www.apple.com/" target="_blank"> 
+    <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
 </p>
 <br>
 
