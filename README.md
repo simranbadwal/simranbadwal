@@ -1,7 +1,6 @@
 # **<p> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></p>**
 
-### Hello! My Name Is Simran Badwal, I am currently a student at @LaurierCS, and I'm interested in Quantum Computing, Quantitative Analysis, Artificial Intelligence, and Machine Learning
-
+### Hello! My Name Is Simran Badwal, I am currently a student at @LaurierCS, and I'm interested in AI/ML, Data Analysis/Analytics, and Cloud Computing
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/red?icon=github)](https://github.com/simranbadwal/#-contact)
 ![Profile Views](https://komarev.com/ghpvc/?username=simranbadwal)
