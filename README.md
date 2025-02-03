@@ -9,11 +9,6 @@
 ---
 <br>
 
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simranbadwal&layout=compact&theme=radical)
-<br>
-
 <!-- Skills ############################ 
 -->
 
